@@ -8,9 +8,12 @@ I specialize in modern testing tools like **Selenium**, **Cypress**, and **Playw
 ### 📚 Currently Learning
  
 - Playwright for testing modern web applications  
-- API Testing & DB Testing  
-- Building scalable test automation frameworks  
+- Exploring AI-powered testing tools like Testim, Katalon TestOps, Applitools
+- Building scalable test automation frameworks
+- Using machine learning models to identify flaky tests and optimize test coverage
+- Experimenting with GPT-based test case generation and natural language to code tools to accelerate QA workflows
 
+  
 ---
 
 ### 🚀 My Projects
