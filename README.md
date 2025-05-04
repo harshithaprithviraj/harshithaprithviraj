@@ -1,7 +1,10 @@
 ## Hi there 👋
 
-I'm **Harshitha Prithviraj**, a passionate **QA Engineer** with 7+ years of experience in manual and automation testing.  
-I specialize in modern testing tools like **Selenium**, **Cypress**, and **Playwright**, and I’m always upskilling to stay ahead of the testing curve!
+👩‍💻 **I'm Harshitha Prithviraj** — a quality-obsessed **QA Engineer** with **7+ years** of breaking things (so users don’t have to) through **manual** and **automation testing**.
+
+🔧 I wield modern testing tools like **Selenium**, **Cypress**, and **Playwright** like a pro, and I’m currently diving deep into the exciting world of **AI in testing** — because the future of QA isn't just **automated**, it's **intelligent**. 🤖✨
+
+Always **curious**, always **evolving** — I believe **testing** isn’t just a job, it’s an ever-evolving adventure in **precision**, **innovation**, and staying one step ahead of **bugs**!
 
 ---
 
@@ -62,7 +65,3 @@ Here are some of my featured repositories:
 ---
 
 > _"Quality is never an accident; it is always the result of intelligent effort."_ — John Ruskin
-
-<!--
-**harshithaprithviraj/harshithaprithviraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
