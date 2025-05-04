@@ -20,9 +20,9 @@ I specialize in modern testing tools like **Selenium**, **Cypress**, and **Playw
 
 Here are some of my featured repositories:
 
-- 🔹 A demo project for automated UI testing using **Selenium**
-- 🔹 E2E test automation framework using **Cypress**
-- 🔹 API test automation using **Postman** and **RestAssured**
+- 🔹 A demo project with  Cucumber Framework using **Selenium**
+- 🔹 E2E Mocha test automation framework using **Cypress**
+- 🔹 E2E test automation Framework using **Playwright**
 
 (📌 Stay tuned — More projects coming soon!)
 
