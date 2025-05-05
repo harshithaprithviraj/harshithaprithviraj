@@ -8,6 +8,12 @@ Always **curious**, always **evolving** — I believe **testing** isn’t just a
 
 ---
 
+### ✍️ My Technical QA Blog
+I write about real-world QA experiences, testing tips, and the future of automation on my blog:  
+🔗 [qatesterthoughts.wordpress.com](https://qatesterthoughts.wordpress.com/)
+
+---
+
 ### 📚 Currently Learning
  
 - Playwright for testing modern web applications  
