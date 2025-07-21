@@ -15,8 +15,7 @@ I write about real-world QA experiences, testing tips, and the future of automat
 ---
 
 ### 📚 Currently Learning
- 
-- Playwright for testing modern web applications  
+  
 - Exploring AI-powered testing tools like Testim, Katalon TestOps, Applitools
 - Building scalable test automation frameworks
 - Using machine learning models to identify flaky tests and optimize test coverage
